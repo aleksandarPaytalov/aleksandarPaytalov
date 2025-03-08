@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone! My name is Aleksandar Paytalov and i am an entry level software engineer with C#  👋
 
 <!--
 **aleksandarPaytalov/aleksandarPaytalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
