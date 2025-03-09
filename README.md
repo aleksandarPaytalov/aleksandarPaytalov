@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td align="left" width="100%" style="position: relative;">
-      <img src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/main/assets/programmer.png.webp" width="20%" style="opacity: 0.2; position: absolute; top: 0; left: 0; z-index: -1;">
+      <img src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/main/assets/giphy.gif" width="20%" style="opacity: 0.2; position: absolute; top: 0; left: 0; z-index: -1;">
       <h1>👋 Hi there! I'm Alex - a passionate software engineer working with C#, ASP.NET, and AI-driven solutions.</h1>
     </td>
   </tr>
