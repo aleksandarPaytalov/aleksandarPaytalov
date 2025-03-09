@@ -22,4 +22,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleksandarPaytalov&" alt="aleksandarPaytalov" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksandarPaytalov&show_icons=true&locale=en&layout=compact" alt="aleksandarPaytalov" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleksandarPaytalov" alt="aleksandarPaytalov" /></a></p>
+### 🐍 Fun: Contribution Snake
+<p align="center">
+  <img src="https://github.com/your-username/your-username/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
