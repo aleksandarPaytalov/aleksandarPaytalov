@@ -1,5 +1,4 @@
-<h1>Hi there 👋! Welcome to my GitHub profile!</h1>
-<p>I'm Alex - a software engineer working with C#, ASP.NET, and AI-driven solutions.</p>
+<h1>Hi I'm Alex - a software engineer working with C#, ASP.NET, and AI-driven solutions. 👋! Welcome to my GitHub profile!</h1>
 <h2>🚀 Here some Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
