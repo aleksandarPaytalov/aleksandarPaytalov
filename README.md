@@ -1,5 +1,11 @@
-<img src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/main/assets/programmer.png.webp" width="800"/>
-<h1>Hi there 👋! I'm Alex - a passionate software engineer working with C#, ASP.NET, and AI-driven solutions. Welcome to my GitHub profile!</h1>
+<table>
+  <tr>
+    <td align="left" width="100%" style="position: relative;">
+      <img src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/main/assets/programmer.png.webp" width="20%" style="opacity: 0.2; position: absolute; top: 0; left: 0; z-index: -1;">
+      <h1>👋 Hi there! I'm Alex - a passionate software engineer working with C#, ASP.NET, and AI-driven solutions.</h1>
+    </td>
+  </tr>
+</table>
 <h2>🚀 Here some Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
