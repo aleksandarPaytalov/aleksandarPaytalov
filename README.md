@@ -19,8 +19,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="entity framework" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/github/github-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github actions" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="42" height="42" /></a></p>
-<a target="_blank" href="https://www.jenkins.io/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42" height="42" />
-</a>
+<a target="_blank" href="https://www.jenkins.io/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42" height="42" /></a>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/aleksandar-paytalov-a90535244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/share/18mkVwdReP/?mibextid=wwXIfr" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
