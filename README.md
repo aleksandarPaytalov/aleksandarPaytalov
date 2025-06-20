@@ -49,44 +49,64 @@
 <img src="https://github-profile-trophy.vercel.app/?username=aleksandarPaytalov&theme=flat&no-frame=true&margin-w=15" alt="aleksandarPaytalov" />
 </p>
 
-## 🐍 Watch My Contributions Get Eaten!
+## 🐍 Snake Eating My Contributions
 
 <div align="center">
-  
-  ```
-  ╔══════════════════════════════════════════════════════════════════════════════╗
-  ║                    🎮 BEAUTIFUL SNAKE ANIMATIONS 🎮                         ║
-  ║          Multiple color themes - Matrix, Neon, Ocean & More!                ║
-  ╚══════════════════════════════════════════════════════════════════════════════╝
-  ```
 
-  ### 🌈 **Matrix Theme** (Default)
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake.svg" />
-    <img alt="Matrix Snake" src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake-dark.svg" width="100%" />
-  </picture>
+### 🎮 **RETRO GAME ZONE** 🎮
 
-  ### 💖 **Neon Cyberpunk Theme**
-  <img src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake-neon.svg" alt="Neon Snake" width="100%" />
+```
+████████████████████████████████████████████████████████████████████████████████
+█                                                                              █
+█    ░██████╗███╗   ██╗ █████╗ ██╗  ██╗███████╗     ██████╗  █████╗ ███╗   ███╗█
+█    ██╔════╝████╗  ██║██╔══██╗██║ ██╔╝██╔════╝    ██╔════╝ ██╔══██╗████╗ ████║█
+█    ╚█████╗ ██╔██╗ ██║███████║█████╔╝ █████╗      ██║  ███╗███████║██╔████╔██║█
+█    ░╚═══██╗██║╚██╗██║██╔══██║██╔═██╗ ██╔══╝      ██║   ██║██╔══██║██║╚██╔╝██║█
+█    ██████╔╝██║ ╚████║██║  ██║██║  ██╗███████╗    ╚██████╔╝██║  ██║██║ ╚═╝ ██║█
+█    ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝     ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝█
+█                                                                              █
+█           🐍 WATCH THE SNAKE DEVOUR MY GITHUB CONTRIBUTIONS! 🐍             █
+█                                                                              █
+████████████████████████████████████████████████████████████████████████████████
+```
 
-  ### 🌊 **Ocean Theme**
-  <img src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake-ocean.svg" alt="Ocean Snake" width="100%" />
+<br>
 
-  ### 🔥 **Fire Theme**
-  <img src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake-fire.svg" alt="Fire Snake" width="100%" />
+<table>
+  <tr>
+    <td align="center">
+      <img width="400" height="20" src="https://via.placeholder.com/400x20/00ff41/000000?text=🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake.svg" />
+        <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake.svg" width="100%" style="max-width:800px; border: 3px solid #00ff41; border-radius: 10px; box-shadow: 0 0 20px #00ff41;" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="400" height="20" src="https://via.placeholder.com/400x20/00ff41/000000?text=🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢">
+    </td>
+  </tr>
+</table>
 
-  ### 💜 **Purple Galaxy Theme**
-  <img src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake-purple.svg" alt="Purple Snake" width="100%" />
+<br>
 
-  ### 🌈 **Rainbow Animation**
-  <img src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake-rainbow.gif" alt="Rainbow Snake" width="100%" />
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  🎯 GAME STATS                                                   ║
+║  ▓▓▓▓▓▓▓▓▓▓ COMMITS FUEL THE SNAKE ▓▓▓▓▓▓▓▓▓▓                   ║
+║  🐍 Snake Speed: LEGENDARY                                       ║
+║  🎮 Game Mode: INFINITE CONTRIBUTIONS                            ║
+║  🏆 High Score: UNLIMITED GROWTH                                 ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-  ```
-  ⚡ POWERED BY GITHUB ACTIONS ⚡ UPDATES EVERY 6 HOURS ⚡
-  ```
-  
-  <sub>🔥 **Each commit feeds the snake and makes it grow!** 🔥</sub>
+<sub>⚡ **POWERED BY:** GitHub Actions | **UPDATES:** Every Push | **STATUS:** 🟢 ACTIVE ⚡</sub>
 
 </div>
 
