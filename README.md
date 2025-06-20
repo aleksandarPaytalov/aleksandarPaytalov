@@ -49,13 +49,30 @@
 <img src="https://github-profile-trophy.vercel.app/?username=aleksandarPaytalov&theme=flat&no-frame=true&margin-w=15" alt="aleksandarPaytalov" />
 </p>
 
-## 🐍 Contribution Snake
+## 🐍 Watch My Contributions Get Eaten!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake.svg" />
-</picture>
+<div align="center">
+  
+  ```
+  ╔══════════════════════════════════════════════════════════════════════════════╗
+  ║                     🎮 CONTRIBUTION SNAKE GAME 🎮                           ║
+  ║          The snake devours my green contribution squares!                    ║
+  ╚══════════════════════════════════════════════════════════════════════════════╝
+  ```
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake.svg" width="100%" />
+  </picture>
+
+  ```
+  🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢
+  ```
+  
+  <sub>🔥 **Commit streak powers the snake!** 🔥</sub>
+
+</div>
 
 ---
 
