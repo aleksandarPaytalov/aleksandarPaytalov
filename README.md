@@ -49,66 +49,13 @@
 <img src="https://github-profile-trophy.vercel.app/?username=aleksandarPaytalov&theme=flat&no-frame=true&margin-w=15" alt="aleksandarPaytalov" />
 </p>
 
-## 🐍 Snake Eating My Contributions
+## 🐍 Contribution Snake
 
-<div align="center">
-
-### 🎮 **RETRO GAME ZONE** 🎮
-
-```
-████████████████████████████████████████████████████████████████████████████████
-█                                                                              █
-█    ░██████╗███╗   ██╗ █████╗ ██╗  ██╗███████╗     ██████╗  █████╗ ███╗   ███╗█
-█    ██╔════╝████╗  ██║██╔══██╗██║ ██╔╝██╔════╝    ██╔════╝ ██╔══██╗████╗ ████║█
-█    ╚█████╗ ██╔██╗ ██║███████║█████╔╝ █████╗      ██║  ███╗███████║██╔████╔██║█
-█    ░╚═══██╗██║╚██╗██║██╔══██║██╔═██╗ ██╔══╝      ██║   ██║██╔══██║██║╚██╔╝██║█
-█    ██████╔╝██║ ╚████║██║  ██║██║  ██╗███████╗    ╚██████╔╝██║  ██║██║ ╚═╝ ██║█
-█    ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝     ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝█
-█                                                                              █
-█           🐍 WATCH THE SNAKE DEVOUR MY GITHUB CONTRIBUTIONS! 🐍             █
-█                                                                              █
-████████████████████████████████████████████████████████████████████████████████
-```
-
-<br>
-
-<table>
-  <tr>
-    <td align="center">
-      <img width="400" height="20" src="https://via.placeholder.com/400x20/00ff41/000000?text=🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake.svg" />
-        <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake.svg" width="100%" style="max-width:800px; border: 3px solid #00ff41; border-radius: 10px; box-shadow: 0 0 20px #00ff41;" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img width="400" height="20" src="https://via.placeholder.com/400x20/00ff41/000000?text=🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢">
-    </td>
-  </tr>
-</table>
-
-<br>
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  🎯 GAME STATS                                                   ║
-║  ▓▓▓▓▓▓▓▓▓▓ COMMITS FUEL THE SNAKE ▓▓▓▓▓▓▓▓▓▓                   ║
-║  🐍 Snake Speed: LEGENDARY                                       ║
-║  🎮 Game Mode: INFINITE CONTRIBUTIONS                            ║
-║  🏆 High Score: UNLIMITED GROWTH                                 ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<sub>⚡ **POWERED BY:** GitHub Actions | **UPDATES:** Every Push | **STATUS:** 🟢 ACTIVE ⚡</sub>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake.svg" />
+</picture>
 
 ---
 
