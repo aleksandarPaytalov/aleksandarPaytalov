@@ -55,22 +55,38 @@
   
   ```
   ╔══════════════════════════════════════════════════════════════════════════════╗
-  ║                     🎮 CONTRIBUTION SNAKE GAME 🎮                           ║
-  ║          The snake devours my green contribution squares!                    ║
+  ║                    🎮 BEAUTIFUL SNAKE ANIMATIONS 🎮                         ║
+  ║          Multiple color themes - Matrix, Neon, Ocean & More!                ║
   ╚══════════════════════════════════════════════════════════════════════════════╝
   ```
 
+  ### 🌈 **Matrix Theme** (Default)
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake.svg" width="100%" />
+    <img alt="Matrix Snake" src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake-dark.svg" width="100%" />
   </picture>
 
+  ### 💖 **Neon Cyberpunk Theme**
+  <img src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake-neon.svg" alt="Neon Snake" width="100%" />
+
+  ### 🌊 **Ocean Theme**
+  <img src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake-ocean.svg" alt="Ocean Snake" width="100%" />
+
+  ### 🔥 **Fire Theme**
+  <img src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake-fire.svg" alt="Fire Snake" width="100%" />
+
+  ### 💜 **Purple Galaxy Theme**
+  <img src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake-purple.svg" alt="Purple Snake" width="100%" />
+
+  ### 🌈 **Rainbow Animation**
+  <img src="https://raw.githubusercontent.com/aleksandarPaytalov/aleksandarPaytalov/output/github-snake-rainbow.gif" alt="Rainbow Snake" width="100%" />
+
   ```
-  🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢
+  ⚡ POWERED BY GITHUB ACTIONS ⚡ UPDATES EVERY 6 HOURS ⚡
   ```
   
-  <sub>🔥 **Commit streak powers the snake!** 🔥</sub>
+  <sub>🔥 **Each commit feeds the snake and makes it grow!** 🔥</sub>
 
 </div>
 
