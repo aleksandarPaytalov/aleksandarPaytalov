@@ -36,17 +36,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleksandarPaytalov&show_icons=true&locale=en&theme=default&cache_seconds=86400" alt="aleksandarPaytalov" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aleksandarPaytalov&show_icons=true&locale=en&theme=default" alt="aleksandarPaytalov" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aleksandarPaytalov&theme=default&cache_seconds=86400" alt="aleksandarPaytalov" />
+  <img src="https://streak-stats.demolab.com/?user=aleksandarPaytalov&theme=default" alt="aleksandarPaytalov" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksandarPaytalov&show_icons=true&locale=en&layout=compact&theme=default&cache_seconds=86400" alt="aleksandarPaytalov" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksandarPaytalov&show_icons=true&locale=en&layout=compact&theme=default" alt="aleksandarPaytalov" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aleksandarPaytalov&theme=flat&no-frame=true&margin-w=15&cache_seconds=86400" alt="aleksandarPaytalov" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aleksandarPaytalov&theme=flat&no-frame=true&margin-w=15" alt="aleksandarPaytalov" />
 </p>
