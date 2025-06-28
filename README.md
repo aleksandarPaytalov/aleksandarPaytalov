@@ -40,10 +40,6 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aleksandarPaytalov&theme=default" alt="aleksandarPaytalov" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksandarPaytalov&show_icons=true&locale=en&layout=compact&theme=default" alt="aleksandarPaytalov" />
 </p>
 
