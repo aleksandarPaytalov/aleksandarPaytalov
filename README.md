@@ -28,7 +28,7 @@
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42" height="42"/></a>
 </p>
 
-🌟 **Currently Exploring**
+## 🌟 **Currently Exploring**
 <p align="left">
 <!-- Replace these with the technologies you're actually learning -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42"/></a>
@@ -43,18 +43,4 @@
 <a href="https://www.linkedin.com/in/aleksandar-paytalov-a90535244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin"/></a>
 <a href="https://www.facebook.com/share/18mkVwdReP/?mibextid=wwXIfr" target="_blank"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook"/></a>
 <a href="https://www.instagram.com/aleksandar_paytalov?igsh=Y2h4MzRoYXRtOTZl&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram"/></a>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleksandarPaytalov&show_icons=true&locale=en&theme=default" alt="aleksandarPaytalov" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksandarPaytalov&show_icons=true&locale=en&layout=compact&theme=default" alt="aleksandarPaytalov" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aleksandarPaytalov&theme=flat&no-frame=true&margin-w=15" alt="aleksandarPaytalov" />
 </p>
